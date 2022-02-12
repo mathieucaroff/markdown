@@ -1,0 +1,11 @@
+{
+    "name": "markdown",
+    "version": "1.0",
+    "description": "Ressources to learn and to teach Markdown",
+    "repository": "https://github.com/mathieucaroff/markdown",
+    "author": "Mathieu CAROFF <mathieu.caroff@free.fr>",
+    "license": "CC0-1.0",
+    "scripts": {
+       "build": "mkdir -p dist; cp *.* dist/"
+    }
+ }
